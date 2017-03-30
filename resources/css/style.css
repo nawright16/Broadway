@@ -25,6 +25,6 @@ h3 {
   font-weight: bold;
 }
 
-.top, .solo {
-  background-image: url("./resources/images/the-flatiron-building.png"); 
+.top {
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
